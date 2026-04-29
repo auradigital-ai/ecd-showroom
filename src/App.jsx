@@ -1485,7 +1485,7 @@ function Footer() {
   return (
     <footer className="bg-slate-900 px-4 pt-5 pb-4 mt-8 border-t border-slate-800">
       <div className="max-w-4xl mx-auto flex flex-col sm:flex-row gap-2 justify-between items-center text-xs">
-        <div className="text-slate-500"><span className="text-yellow-400 font-bold">ECD</span> · Elegant Creative Dezynes · © 2025</div>
+        <div className="text-slate-500"><span className="text-yellow-400 font-bold">ECD</span> · Elegant Creative Dezynes · © 2026</div>
         <div className="text-slate-500 flex items-center gap-3">
           <a href="tel:8766620694" className="text-blue-300 hover:underline">(876) 662-0694</a>
           <span>·</span>
